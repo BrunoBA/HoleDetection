@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\3763fb7aa626962941c12c2ce0482653491c4dc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_dc668d74b61cd5f848ceed5111d959e91eee5ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\73d4bef174f9d378bedb60ad0dda8e3ab5e4d17b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_33cd7bae62e46187d248e342353ae493231a7365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\3130e1ed6a8cd3ded1ed6624767b5d0f9ba123e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_ecd13d74bcb83f42433528fd5771f67d115e887e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\6532cf6c9a6a6cc436251b840c895324c1126ec8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_61038f372d51cd9a754660f2e8a114a294fba1f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\876dbc2e7645ff27730efdb2e1f792efb879bd33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_585f74eb4494077fdfe2c1329568be3272a6d65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\4f0960e46b774b8df5e6abedff492ea07b473ccd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_8820e17a58057fc8a91ffb0846595993fb7b17c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\1f58d4ff75b3e6e876b8df3ce96050b9f2ce1d17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_b12d469391e31579124ee5b6abc2e6f3735dc1cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\560f616c6197d419c8ba80c89a6b84f75437d854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_7ecae320bd06a04d25148fdc5066138996396a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\265184866b1c7531ff2fdd4b94297a635a33d406\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_46b16e449b22b6ab8d564719f3f1b61e7265b1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\6ea7865b3755357e40e77c387dc603689d4b02f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_49d877d529228575a825cd7b1c81eb28eca669e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\160a87a2db1c1544392d9c0362238f1dd42da523\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_f52901f79d0c4441a1dd5ceea1511bc3c1b40e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\a79d67f0dad9c8c67840d615181e0061ae513263\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_47f33cb5b8174fa7e140b7c860ffb7c7ffc40078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\5ff1199178632c77263670362bc9526d3ad2a473\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_073136f025333ee87f9ad630232aba095d7fa84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\1b5de27ecf8d7861ca49647141e3918503d96529\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_a4e7705f83f8983b13398e04a1b04d30cd7b4985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d1ff988a3c4208857e01b70c9c1d5855af11a21b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\c5213667c770b6536e9007c7afdb5732beac53a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_1c276195e10d82a6ceddfc15ce960e70f9cb30a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\artur\.android\build-cache\cd066af1218421e237cc33c39103cda05a33b6b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\artur\RepositorioTesteAndroid\app\build\intermediates\pre-dexed\debug\classes_655660984bc8b080329d1569ceeda5d0e3075af1.jar" />
+    </item>
+
+</items>
